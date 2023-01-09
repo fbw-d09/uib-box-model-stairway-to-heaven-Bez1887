@@ -1,0 +1,101 @@
+.boox {
+    width: 400px;
+    height: 400px;
+    display: block;
+    background-color: #b87333;
+    box-sizing: border-box;
+    
+    
+    
+}
+
+
+#box1 {
+    width: 100px;
+    height: 100px;
+    background-color: gold;
+    /* border: 3px solid black; */
+    margin-left: 300px;
+    
+    
+}
+
+#box2 {
+    width: 100px;
+    height: 100px;
+    background-color: gold;
+    /* border: 3px solid black; */
+    margin-left: 197px;
+    border: 5px solid red;
+    box-sizing: border-box;
+
+
+}
+
+#box3 {
+    width: 100px;
+    height: 100px;
+    background-color: gold;
+    /* border: 3px solid black; */
+    margin-left: 99px;
+
+
+}
+
+#box4 {
+    width: 100px;
+    height: 100px;
+    background-color: gold;
+    border: 5px solid red;
+    box-sizing: border-box;
+
+
+}
+
+
+
+/* border: 5px solid tomato;
+    box-sizing: border-box;
+    width: 25%;
+    height: 25%;
+    background-color:yellow; */
+
+
+
+.gelb {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    box-sizing: border-box;
+    border: 3px solid black;
+}
+
+.rot1 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    padding-left: 100px;
+}
+
+/* .gelb2 {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    padding-right: 100px;
+} */
+
+.rot2 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    padding-left: 200px;
+}
+
+.rot3 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    padding-left: 300px;
+}
+
+    

@@ -15,3 +15,6 @@ Sie sollte wie das Referenzbild unten aussehen.
 ![padding staircase](images/padding-staircase.png)
 
 Viel Glück und viel Spaß!
+
+
+background-color: #ff00ff;
